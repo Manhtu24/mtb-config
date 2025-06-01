@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+#prefix is accounts
+accounts:
+  message: "Welcome to the Accounts Service.I'm BMT.This is a development environment"
+  contactDetails:
+    name: "Bui Manh Tu-Developer"
+    email: "example@gmail.com"
+  onCallSupport:
+    - (055) 555 666
+    - (055) 555 777
+

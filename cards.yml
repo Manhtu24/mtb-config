@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to BMT cards service. This is a development environment."
+  contactDetails:
+    name: "Bui Manh Tu - Developer"
+    email: "example@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

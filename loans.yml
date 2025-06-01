@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to BMT loans service. This is the development environment."
+  contactDetails:
+    name: "Bui Manh Tu - Developer"
+    email: "example@gmail.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

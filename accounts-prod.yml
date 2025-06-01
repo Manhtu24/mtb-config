@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+#prefix is accounts
+accounts:
+  message: "Welcome to the Accounts Service.I'm BMT, this is a Product environment"
+  contactDetails:
+    name: "Manh Tu-Product Owner"
+    email: "example3@gmail.com"
+  onCallSupport:
+    - (066) 524 888
+    - (066) 576 999

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to BMT cards service. This is the QA environment."
+  contactDetails:
+    name: "Tran Thi Kim Ngan- QA Lead"
+    email: "example2@gmail.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

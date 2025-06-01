@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to BMT Loans.This is the production environment."
+  contactDetails:
+    name: "Manh Tu-PO"
+    email: "example3@gmail.com"
+  onCallSupport:
+    - (785) 545-4747
+    - (853) 546-8686

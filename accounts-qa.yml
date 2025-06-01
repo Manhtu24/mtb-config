@@ -1,0 +1,14 @@
+
+
+build:
+  version: "2.0"
+
+#prefix is accounts
+accounts:
+  message: "Welcome to the Accounts Service.I'm BMT, this is a QA environment"
+  contactDetails:
+    name: "Tran Thi Kim Ngan-QA lead"
+    email: "example2@gmail.com"
+  onCallSupport:
+    - (066) 524 646
+    - (066) 576 577
