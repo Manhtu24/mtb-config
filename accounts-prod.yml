@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to the Accounts Service.I'm BMT, this is a Product environment"
   contactDetails:
     name: "Manh Tu-Product Owner"
-    email: "example3@gmail.com"
+    email: "{cipher}8ca03b22d68714e141b83d8fd9cc6e6ad5347fd3e02eeebfd5e43d92115217b8eecda49cff559a678c9d730cfd44a329"
   onCallSupport:
     - (066) 524 888
     - (066) 576 999
