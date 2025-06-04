@@ -3,7 +3,7 @@ build:
   version: "1.0"
 #prefix is accounts
 accounts:
-  message: "Welcome to the Accounts Service.I'm BMT, this is a Product environment"
+  message: "Welcome to the Accounts Service.I'm BMT, this is a Product (Test update in runtime) environment"
   contactDetails:
     name: "Manh Tu-Product Owner"
     email: "{cipher}8ca03b22d68714e141b83d8fd9cc6e6ad5347fd3e02eeebfd5e43d92115217b8eecda49cff559a678c9d730cfd44a329"
