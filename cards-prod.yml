@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to BMT cards service. This is the production environment."
+  message: "Welcome to BMT cards service. This is the prod environment."
   contactDetails:
     name: "Manh Tu-PO"
     email: "example3@gmail.com"
